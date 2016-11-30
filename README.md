@@ -1,5 +1,5 @@
-# Typed Dotty  [![Build Status](https://travis-ci.org/effervescentia/typed-dotty.svg?branch=master)](https://travis-ci.org/effervescentia/typed-dotty)
-
+# Typed Dotty
+[![CircleCI](https://circleci.com/gh/effervescentia/typed-dotty.svg?style=svg)](https://circleci.com/gh/effervescentia/typed-dotty)
 
 The type definition for [`dotty`](git://github.com/deoxxa/dotty.git)
 
