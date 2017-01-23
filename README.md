@@ -1,4 +1,6 @@
 # Typed Dotty
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/effervescentia/typed-dotty.svg)](https://greenkeeper.io/)
 [![CircleCI](https://circleci.com/gh/effervescentia/typed-dotty.svg?style=svg)](https://circleci.com/gh/effervescentia/typed-dotty)
 
 The type definition for [`dotty`](git://github.com/deoxxa/dotty.git)
